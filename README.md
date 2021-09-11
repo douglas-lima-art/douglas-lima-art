@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @douglas-lima-art
 - 👀 Atualmente procurando uma oportunidade de estágio. 
 - 🌱 Python, HTML, CSS, JavaScript, GIT, C. 
+- Desenvolvimento de paginas Web. 
 
 
 
